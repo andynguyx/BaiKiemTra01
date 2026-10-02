@@ -987,3 +987,6 @@ namespace bai03
     }
 }
 
+<img width="1188" height="694" alt="Screenshot 2026-10-02 161105" src="https://github.com/user-attachments/assets/0d53e516-284a-4680-a80a-3b36cd5fb308" />
+
+
